@@ -1,0 +1,9 @@
+------ASPEN SLIDING JOYSTICK------
+            Changelog             
+==================================
+
+Version 1.0 	Date 06/21/2024
+ - Initial commit
+ - Aspen Sliding Joystick design with supporting documentation
+ - 5 Sliding Joystick toppers and 2 optional mount adapters (camera mount and RAM mount)
+ - Design based on and adapted from the Birch Mini Joystick - A design, using the same joystick module

@@ -46,7 +46,7 @@ Use the Makers Checklist in the [Maker Guide](/Documentation/Aspen_Joystick_Make
 
 ### 4. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Aspen_Joystick_BOM.xlsx) lists all of the parts and components required to build the Aspen Sliding Joystick. 
+The [Bill of Materials](/Documentation/Aspen_Joystick_BOM.csv) lists all of the parts and components required to build the Aspen Sliding Joystick. 
 
 
 ### 5. Print the 3D Printable components

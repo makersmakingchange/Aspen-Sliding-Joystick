@@ -65,7 +65,7 @@ Reference the Assembly Guide section in the [Maker Guide](/Documentation/Aspen_J
 |----------------------|---------|------------------------------------------------------------------------------------------|
 | Design Rationale     | 1.0     | [Aspen_Joystick_Design_Rationale](/Documentation/Aspen_Joystick_Design_Rationale.pdf)    |
 | Maker Checklist      | 1.0     | [Aspen_Joystick_Maker_Guide](/Documentation/Aspen_Joystick_Maker_Guide.pdf)           	| 
-| Bill of Materials    | 1.0     | [Aspen_Joystick_Bill_of_Materials](/Documentation/Aspen_Joystick_BOM.xlsx)     		    |     
+| Bill of Materials    | 1.0     | [Aspen_Joystick_Bill_of_Materials](/Documentation/Aspen_Joystick_BOM.csv)     		    |     
 | User Guide           | 1.0     | [Aspen_Joystick_User_Guide](/Documentation/Aspen_Joystick_User_Guide.pdf)    	        | 
 | Changelog            | 1.0     | [CHANGES](/CHANGES.txt)     			| 
 

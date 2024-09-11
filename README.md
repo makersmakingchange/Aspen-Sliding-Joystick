@@ -1,11 +1,17 @@
 # Aspen Sliding Joystick
-The Aspen Sliding Joystick is a small, proportional joystick that has a sliding motion and can be used for adaptive gaming or computer access with a suitable adapter. It has a small range of motion of ±2mm and requires approximately 115 grams-force to fully deflect. It is low profile, with a height of 1.9 cm with the standard topper. This joystick has interchangeable toppers and optional mount adapters. The Aspen Sliding Joystick has the same joystick mechanism as the Birch Sliding USB Joystick, but is the analog version. 
+The Aspen Sliding Joystick is a small, proportional joystick that has a sliding motion and can be used for adaptive gaming or computer access with a suitable adapter. It has a small range of motion of ±2mm and requires approximately 115 grams-force to fully deflect. It is low profile, with a height of 1.9 cm with the standard topper. This joystick has interchangeable toppers, an optional hand support, and optional mount adapters. The Aspen Sliding Joystick has the same joystick mechanism as the Birch Sliding USB Joystick, but is the analog version. 
 
 The Aspen Joystick has a cable with a 3.5 mm TRRS audio plug (i.e., headphone jack). It is compatible with the [Forest Joystick Mouse Hub](https://www.makersmakingchange.com/s/product/forest-joystick-mouse-hub/01tJR000000E4bdYAC), the Sony PlayStation Access Controller, or the X1 or X2 analog input ports on the Microsoft Xbox Adaptive controller.
 
-The device is comprised of off-the-shelf electronics and 3D-printed parts. The overall cost of materials for a single build is about $20.
+The device is comprised of off-the-shelf electronics and 3D-printed parts. The overall cost of materials for a single build is about $20 ($12 for the materials and $8 for shipping).
 
 <img src="Photos/Aspen-Sliding-Joystick.jpg" width="500" alt="Picture of the Aspen Sliding Joystick, it is small and green and has ASPEN written on the front. The black cable comes out the back of the joystick and wraps around to show the jack on the end.">
+
+The Aspen Sliding Joystick can also be used with optional mount adapters to allow for use with a 1/4-20" camera mount or RAM mount systems. There is also an optional 3D printed hand support, pictured below.
+
+<img src="Photos/RAM-B-Mount-Adapter-P.jpg" width="200" alt="Picture of a blue RAM B mount adapter on a white background.">
+<img src="Photos/Camera-Mount-Adapter-Installed.jpg" width="200" alt="Picture of the back of a green Aspen Sliding Joystick with a blue camera mount adapter screwed into it. A black cable comes out the back of the joystick and goes out of frame.">
+<img src="Photos/Aspen-in-hand-support.jpg" width="200" alt="Picture of a green Aspen Sliding Joystick in a grey circular hand support.A black cable comes out the back of the joystick and goes out of frame.">
 
 
 ## More info at
@@ -51,7 +57,7 @@ The [Bill of Materials](/Documentation/Aspen_Joystick_BOM.csv) lists all of the 
 
 ### 5. Print the 3D Printable components
 
-Print the components needed for the Aspen Sliding Joystick. Make sure to ask the user if they would like any of the optional prints such as toppers or mount adapters.
+Print the components needed for the Aspen Sliding Joystick. Make sure to ask the user if they would like any of the optional prints such as toppers, mount adapters, or the hand support. 
 
 All of the files and individual print files can be in the [/Build_Files/3D_Print_Files](/Build_Files/3D_Print_Files/) folder.
 

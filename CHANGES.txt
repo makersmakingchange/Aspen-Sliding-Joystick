@@ -2,6 +2,11 @@
             Changelog             
 ==================================
 
+Version 1.1 	Date 09/11/2024
+ - Added Aspen Hand Support (build file and design file)
+ - Added the Aspen Hand Support to the Maker Guide, User Guide, Design Rationale, and BOM
+ - Added photos of the Aspen in the Hand Support to the photos folder
+
 Version 1.0 	Date 06/21/2024
  - Initial commit
  - Aspen Sliding Joystick design with supporting documentation

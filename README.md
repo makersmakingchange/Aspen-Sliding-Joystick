@@ -7,9 +7,9 @@ The device is comprised of off-the-shelf electronics and 3D-printed parts. The o
 
 <img src="Photos/Aspen-Sliding-Joystick.jpg" width="500" alt="Picture of the Aspen Sliding Joystick, it is small and green and has ASPEN written on the front. The black cable comes out the back of the joystick and wraps around to show the jack on the end.">
 
-The Aspen Sliding Joystick can also be used with optional mount adapters to allow for use with a 1/4-20" camera mount or RAM mount systems. There is also an optional 3D printed hand support, pictured below.
+The Aspen Sliding Joystick can also be used with optional mount adapters to allow for use with a 1/4-20" camera mount or RAM mount systems. There is also an optional 3D-printed hand support. Below, pictured from left to  right are the Camera Mount Adapter, the RAM B Mount Adapter, and the Aspen Hand Support. 
 
-<img src="Photos/RAM-B-Mount-Adapter-P.jpg" width="200" alt="Picture of a blue RAM B mount adapter on a white background."> <img src="Photos/Camera-Mount-Adapter-Installed.jpg" width="200" alt="Picture of the back of a green Aspen Sliding Joystick with a blue camera mount adapter screwed into it. A black cable comes out the back of the joystick and goes out of frame."> <img src="Photos/Aspen-in-hand-support.jpg" width="200" alt="Picture of a green Aspen Sliding Joystick in a grey circular hand support.A black cable comes out the back of the joystick and goes out of frame.">
+<img src="Photos/Camera-Mount-Adapter-Installed.jpg" width="200" alt="Picture of the back of a green Aspen Sliding Joystick with a blue camera mount adapter screwed into it. A black cable comes out the back of the joystick and goes out of frame."> <img src="Photos/RAM-B-Mount-Adapter-P.jpg" width="200" alt="Picture of a blue RAM B mount adapter on a white background."> <img src="Photos/Aspen-in-hand-support.jpg" width="200" alt="Picture of a green Aspen Sliding Joystick in a grey circular hand support.A black cable comes out the back of the joystick and goes out of frame.">
 
 
 ## More info at

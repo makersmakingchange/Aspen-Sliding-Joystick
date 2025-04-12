@@ -15,6 +15,8 @@ The Aspen Sliding Joystick can also be used with optional mount adapters to allo
 ## More info at
 - [Makers Making Change Assistive Device Library Listing](https://www.makersmakingchange.com/s/product/aspen-sliding-joystick/01tJR000004sCptYAE)
 
+## OpenAT Joysticks
+This design is part of the [OpenAT Joystick Project](https://github.com/makersmakingchange/OpenAT-Joysticks), a collection of open source designs for digital access and adapted gaming.  
 
 ## How to Obtain a Aspen Sliding Joystick
 ### 1. Do it Yourself (DIY) or Do it Together (DIT)
